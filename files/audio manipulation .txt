@@ -1,0 +1,153 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # Volume control
+
+# In[57]:
+
+
+from pydub import AudioSegment
+from pydub.playback import play
+import librosa
+import numpy as np
+
+
+# In[17]:
+
+
+song = AudioSegment.from_wav("recipe_2_step_3.wav")
+play(song)
+
+
+# # boost volume by 6dB
+# louder_song = song + 6
+
+# # reduce volume by 3dB
+# quieter_song = song - 3
+
+#Play song
+
+
+# In[15]:
+
+
+louder = song + 15
+play(louder)
+
+
+# In[9]:
+
+
+quiter = song - 8
+play(quiter)
+
+
+# # Speed control
+
+# In[50]:
+
+
+song = AudioSegment.from_wav("recipe_2_step_3.wav")
+play(song)
+
+
+# In[42]:
+
+
+song.speedup(1.3, 150, 25)
+
+
+# In[45]:
+
+
+song.speedup(1.3, 150, 15)
+
+
+# In[20]:
+
+
+def speed_change(sound, speed=1.0):
+    # Manually override the frame_rate. This tells the computer how many
+    # samples to play per second
+    sound_with_altered_frame_rate = sound._spawn(sound.raw_data, overrides={
+         "frame_rate": int(sound.frame_rate * speed)
+      })
+     # convert the sound with altered frame rate to a standard frame rate
+     # so that regular playback programs will work right. They often only
+     # know how to play audio at standard frame rate (like 44.1k)
+    return sound_with_altered_frame_rate.set_frame_rate(sound.frame_rate)
+
+
+# In[49]:
+
+
+
+slow_sound = speed_change(song, 0.95)
+play(slow_sound)
+
+
+# In[36]:
+
+
+
+fast_sound = speed_change(song, 1.3)
+play(fast_sound)
+
+
+# In[47]:
+
+
+import time
+from pydub import AudioSegment
+from pydub.playback import play
+
+song = AudioSegment.from_wav("recipe_2_step_3.wav")
+
+
+t0 = time.time()
+
+fast = song.speedup(1.3, 150, 25)
+t1 = time.time()
+
+
+
+total = t1-t0
+
+print('total time: ',total)
+
+play(fast)
+
+
+# In[72]:
+
+
+sound = song
+play(sound)
+
+samples = sound.get_array_of_samples()
+
+arr = np.array(samples).astype(np.float32)
+
+
+# In[88]:
+
+
+
+
+y = librosa.effects.time_stretch(arr,0.99)
+
+
+# In[76]:
+
+
+
+new_sound = sound._spawn(samples)
+play(new_sound)
+
+
+# In[89]:
+
+
+from IPython.display import Audio
+Audio(y,rate=sound.frame_rate)
+

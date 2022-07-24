@@ -1,0 +1,27 @@
+conda activate C:\Users\developer\Desktop\uluc_nemo\uluc_nemo
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=uluc_nemo
+
+-----------------------------------------
+
+Voice Activity detection
+
+1. Noise reduction - spectral subtraction
+2. feature extraction
+3. classification
+
+
+useful links:
+
+https://github.com/marsbroshok/VAD-python 
+
+https://github.com/mvansegbroeck-zz/vad
+
+https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/asr/Voice_Activity_Detection.ipynb#scrollTo=TuxznaW3PQG-
+
+
+https://github.com/filippogiruzzi/voice_activity_detection#1-installation
+
+https://towardsdatascience.com/sound-event-classification-using-machine-learning-8768092beafc
+
+https://www.mathworks.com/help/audio/ug/voice-activity-detection-in-noise-using-deep-learning.html

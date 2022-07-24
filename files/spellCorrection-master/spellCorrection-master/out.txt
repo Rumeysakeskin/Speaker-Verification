@@ -1,0 +1,407 @@
+------- Evaluation -------
+Accuracy : 0.26141078838174275
+Total miss typed word count is : 241
+Total correct estimated word count is : 63
+
+Sentences after viterbi:
+I have four in my Family Dad Mum and ERROR:*siter*+CORRECTION:*sister .
+
+My Dad works at Melton.
+
+My ERROR:*siter*+CORRECTION:*sister ERROR:*go*+CORRECTION:*ago to Tonbury.
+
+My Mum goes out <ERR targ=sometimes> some times </ERR> .
+
+I go to Bridgebrook i go out <ERR targ=sometimes> some times </ERR> on Tuesday night i go to Youth ERROR:*clob*+CORRECTION:*club .
+
+On thursday nights I go <ERR targ=bellringing> bell ringing </ERR> on Saturdays I go down to the farm.
+
+on sundays I go to church.
+
+I go to bed at 10 o clock I ERROR:*wakh*+CORRECTION:*wash TV at 5 o clock I live in a house.
+
+The house is in the world.
+
+I live at Boar Parva it is near Melton and Bridgebrook and Smallerden.
+
+The house is white it has stone up the ERROR:*frount*+CORRECTION:*front it is the first from Bridgebrook and the ERROR:*sexeon*+CORRECTION:*sexton from Smallerden.
+
+My Mum is at home She goes to the shop on fridays My Dad goes to work at Smallerden .
+
+
+
+ What I do when I get home from school.
+
+On monday I sometimes go down the farm in the night I ERROR:*wach*+CORRECTION:*watch TV there is BBC and I.T.V.
+
+I like I.T.V.
+
+We call Anglia I.T.V.
+
+We have got Anglia like to ERROR:*wach*+CORRECTION:*watch ERROR:*-cow-Boys*+CORRECTION:*NOTFOUND! .
+
+On Tuesday I get off the bus and <ERR targ=sometimes> some times </ERR> in the night I go to the Youth <ERR targ=club> colbe </ERR> .
+
+I like to ERROR:*wach*+CORRECTION:*watch T.V.
+
+there is a lot of things on T.V.
+
+I ERROR:*wach*+CORRECTION:*watch it each night.
+
+.
+
+I ERROR:*thing*+CORRECTION:*things ERROR:*tv*+CORRECTION:*v is good but people say it gives us ERROR:*squar*+CORRECTION:*square ERROR:*iyes*+CORRECTION:*yes .
+
+
+
+ The Murder Car.
+
+1 night when it was dark about 12 ERROR:*oclock*+CORRECTION:*clock a man was ERROR:*nock*+CORRECTION:*neck down by a car.
+
+The body was found ERROR:*a*+CORRECTION:* 7 ERROR:*oclock*+CORRECTION:*clock in the morning.
+
+The name of the man who was ERROR:*kild*+CORRECTION:*kid was Jack Robbinson he has black hair brown eyes blue Jacket and blue Jeans.
+
+No one ERROR:*see*+CORRECTION:*sees the car.
+
+there had ERROR:*bean*+CORRECTION:*ben a lot of people ERROR:*nock*+CORRECTION:*neck down by a car so they ERROR:*cald*+CORRECTION:*cold it the murder car.
+
+The Police ERROR:*cam*+CORRECTION:*came out to look for the car.
+
+The other cars were black so one of the other people said.
+
+The murder man has a black beard The next day one of the policemen were ERROR:*killd*+CORRECTION:*killed the next day they found the car over the Hill ERROR:*the*+CORRECTION:*he was the man near it he was dead.
+
+
+
+ I kissed a girl one night ERROR:*Here*+CORRECTION:*NOTFOUND! ERROR:*iyes*+CORRECTION:*yes were burning blue She said o do you love me Of course of course I do.
+
+
+
+ Bell Ringing.
+
+When you start Bell Ringing you <ERR targ=have to> haveto </ERR> ring a bell <ERR targ=before> be for </ERR> you can do <ERR targ=anything> any thing </ERR> ERROR:*als*+CORRECTION:*also .
+
+It takes a lot to ring a bell on the rope there is a sally.
+
+ON the bell there is a ERROR:*weel*+CORRECTION:*wheel .
+
+the ERROR:*weel*+CORRECTION:*wheel has the rope on it some ERROR:*sally*+CORRECTION:*silly are green and the ERROR:*other*+CORRECTION:*others are red white and blue.
+
+When you can ring.
+
+You have to ring ERROR:*rouns*+CORRECTION:*rounds that is when you go 123456 when you can ERROR:*don*+CORRECTION:*done that.
+
+You ERROR:*rings*+CORRECTION:*ring like this.
+
+These are the names of them Plain Hunt, plain Bob, Grandsire Doubles.
+
+Grandsire Triples it takes a long time to ring them.
+
+I have been ringing a long time we go to Smallerden and Oakwell and Guildwell we will <ERR targ=be> we </ERR> going to Smallerden this Thursday I ring 1 2 and 3 but not 4 5 and 6 I like going bell ringing, some time the bell <ERR targ=breaks> brakes </ERR> And the rope goes up and if you are not <ERR targ=careful> carfull </ERR> you will go up with it, we start at 7.30 and end at 9.oclock.
+
+Me and my dad bike to Melton.
+
+
+
+ THE SICK SOW OF THE ARMY COURT
+
+One day Sergent S. M. Bullimore told Hut 29 to clean ERROR:*Cynthia*+CORRECTION:*NOTFOUND! pig sty out.
+
+When Hut 29 got there they had to go and get some ERROR:*gass*+CORRECTION:*gas ERROR:*marsks*+CORRECTION:*masks because the smell was to strong
+
+When S M Bullimore came to the pig sty the pig was laid out on the ERROR:*foor*+CORRECTION:*for
+
+when they came back S. M. Bullimore said ERROR:*wat*+CORRECTION:*wait have you been doing to my sow
+
+we have not done anything we had to go and get some ERROR:*gass*+CORRECTION:*gas ERROR:*marsks*+CORRECTION:*masks because the smell was ERROR:*to*+CORRECTION:*too strong
+
+that is only the soap ERROR:*wat*+CORRECTION:*wait I ERROR:*wosh*+CORRECTION:*wash it with
+
+<ERR targ=perhaps> prasp </ERR> he ERROR:*et*+CORRECTION:*t some soap
+
+Flogger said shall I go and get the vet
+
+get back in the line <ERR targ=before> be for </ERR> I put you on charge
+
+Flogger said under ERROR:*is*+CORRECTION:*s breath `go and have a ERROR:*poney*+CORRECTION:*pony run'
+
+what did you say
+
+o nothing sir
+
+go and get some ERROR:*wiskey*+CORRECTION:*whiskey
+
+okay sir
+
+put some soap in it Flogger said Oswald
+
+OK said Flogger
+
+Flogger went off
+
+a little while after he came with a large ERROR:*soape*+CORRECTION:*soap ERROR:*wiskey*+CORRECTION:*whiskey
+
+he ERROR:*cave*+CORRECTION:*caves it to S. M. Bullimore
+
+Then he ERROR:*cave*+CORRECTION:*caves it to the pig
+
+A little while after the pig ERROR:*go*+CORRECTION:*ago up and there beside ERROR:*here*+CORRECTION:*her were six little pigs
+
+S M Bullimore said that made ERROR:*here*+CORRECTION:*her better that was not me that was the ERROR:*sope*+CORRECTION:*hope
+
+you are on charge
+
+ERROR:*wat*+CORRECTION:*what did you give ERROR:*here*+CORRECTION:*her
+
+ I ERROR:*cave*+CORRECTION:*caves her some ERROR:*wiskey*+CORRECTION:*whiskey and ERROR:*sope*+CORRECTION:*hope you ERROR:*cave*+CORRECTION:*caves her that
+
+no I <ERR targ=never> knver </ERR> I sir
+
+you did
+
+ERROR:*thats*+CORRECTION:*that one thing sir It has made her better.
+
+
+
+ Pigs When young up to being ERROR:*kild*+CORRECTION:*kid for bacon
+
+When they are young you have to ERROR:*wate*+CORRECTION:*water 3 days then you can ERROR:*injeck*+CORRECTION:*inject them for pneumonia diseases
+
+you have ERROR:*mack*+CORRECTION:*mac ERROR:*shore*+CORRECTION:*sore they have ERROR:*drye*+CORRECTION:*dry straw
+
+when you clean them out you should not leave a <ERR targ=fork> falk </ERR> in with them because the mother might <ERR targ=knock> nock </ERR> it down and the little pigs might stab <ERR targ=themselves> them souve </ERR>
+
+we give ERROR:*the*+CORRECTION:*he ERROR:*worme*+CORRECTION:*worm ERROR:*pouder*+CORRECTION:*powder
+
+that is when they get the ERROR:*worme*+CORRECTION:*worm
+
+this will stop them from going thin
+
+you should box a little place off so only the little pigs can get in it
+
+that is so they can ERROR:*ge*+CORRECTION:*g out of the way of ERROR:*there*+CORRECTION:*here mother
+
+some people put a light in with ERROR:*theme*+CORRECTION:*them to ERROR:*geep*+CORRECTION:*weep them warm
+
+you have to make ERROR:*shore*+CORRECTION:*sore that mother has a lot of milk.
+
+If she <ERR targ=has> as </ERR> not got <ERR targ=enough> a nougth </ERR> milk you will have to feed them on a bottle
+
+when they <ERR targ=can> came </ERR> eat a little bit you can get them some little nuts <ERR targ=for> of </ERR> <ERR targ=fattening> fating </ERR>
+
+they can ERROR:*eate*+CORRECTION:*eat some meal when they get a little ERROR:*biger*+CORRECTION:*bigger
+
+we give them some <ERR targ=fattening> fating </ERR> food called Nomber 2
+
+ERROR:*whe*+CORRECTION:*the you wean that is take them from their mother you have got to see if they fight if there is any little ERROR:*wones*+CORRECTION:*ones
+
+fighting
+
+when they ERROR:*and*+CORRECTION:*an ERROR:*bing*+CORRECTION:*being you have to see about ERROR:*waying*+CORRECTION:*saying
+
+when they have been ERROR:*waid*+CORRECTION:*wad and ERROR:*reddy*+CORRECTION:*ready to go away to be ERROR:*kild*+CORRECTION:*kid .
+
+
+
+ Billy Bunter was ERROR:*to*+CORRECTION:*too large So they sent for ERROR:*Im*+CORRECTION:*NOTFOUND! in charge
+
+ERROR:*Im*+CORRECTION:*NOTFOUND! in charge was ERROR:*to*+CORRECTION:*too thin So they sent ERROR:*fro*+CORRECTION:*from Rin Tin Tin
+
+Rin Tin Tin heart is poor So they sent for Barbra Moore
+
+Barbra Moore was having dinner So ERROR:*the*+CORRECTION:*he sent for Yule Brinner
+
+Yule Brinner sang ERROR:*to*+CORRECTION:*too high Then they went to space in the sky 
+
+
+
+ My heart is full of sadness My heart is full of joy It might be my wife Or it might be Helen of ERROR:*Toy*+CORRECTION:*NOTFOUND! 
+
+
+
+ One Saturday I ERROR:*though*+CORRECTION:*thought I would go to the Races at London
+
+I went on my ERROR:*Royl*+CORRECTION:*NOTFOUND! Enfield
+
+they can go quite ERROR:*farst*+CORRECTION:*fast
+
+this was a ERROR:*Royl*+CORRECTION:*NOTFOUND! Enfield ERROR:*Consulatoin*+CORRECTION:*NOTFOUND!
+
+there were some ERROR:*Royl*+CORRECTION:*NOTFOUND! Enfield Racing there as well
+
+I saw a ERROR:*Royl*+CORRECTION:*NOTFOUND! Enfield come first it was like mine.
+
+there were the new ERROR:*Japannese*+CORRECTION:*NOTFOUND! ERROR:*Hondor*+CORRECTION:*NOTFOUND!
+
+they are very ERROR:*farst*+CORRECTION:*fast and ERROR:*geting*+CORRECTION:*getting quite popular in England
+
+I saw one man come off
+
+he was on a B.S.A.
+
+One man had to go in Hospital because he broke ERROR:*is*+CORRECTION:*s ERROR:*lege*+CORRECTION:*leg
+
+<ERR targ=another> a nouther </ERR> man ERROR:*hearte*+CORRECTION:*heart ERROR:*is*+CORRECTION:*s arm in a sidecar race
+
+I ERROR:*dont*+CORRECTION:*done ERROR:*thing*+CORRECTION:*things it was much
+
+I <ERR targ=saw> sow </ERR> a <ERR targ=sidecar> side car </ERR> ERROR:*turne*+CORRECTION:*turn right over
+
+the <ERR targ=sidecar> side care </ERR> man was alright but the <ERR targ=motorbike> motor bike </ERR> Rider was thrown into the crowd
+
+I <ERR targ=don't> dont </ERR> <ERR targ=know> no </ERR> what <ERR targ=happened> hapend </ERR> to him
+
+he was ERROR:*heart*+CORRECTION:*hear quite bad.
+
+the sidecar broke off the <ERR targ=motorbike> moter bike </ERR> and ERROR:*spund*+CORRECTION:*spun down the track for 7 yards then hit a man who was on the corner and killed him
+
+his hat was blowing down the track
+
+the <ERR targ=motorbike> moter bike </ERR> ERROR:*caugh*+CORRECTION:*caught fire and ERROR:*blow*+CORRECTION:*below up
+
+the <ERR targ=petrol> petal </ERR> went all over the track but they ERROR:*sone*+CORRECTION:*son put it out by sand
+
+there was some oil got on the track as well
+
+it made it very slippery
+
+ERROR:*They*+CORRECTION:*NOTFOUND! were quite a few people there because it was a nice dry day
+
+The <ERR targ=final> fianl </ERR> race was on
+
+there were 2 ERROR:*Royl*+CORRECTION:*NOTFOUND! Enfield 3 Japanese ERROR:*Hondor*+CORRECTION:*NOTFOUND! 1 B.S.A.
+
+3 ERROR:*Triumh*+CORRECTION:*NOTFOUND!
+
+they were on the starting line
+
+Bang ERROR:*there*+CORRECTION:*here off
+
+one BSA is still on the starting line the rest are round the bend
+
+I can see one man off
+
+he is on a <ERR targ=Triumph> trumh </ERR>
+
+I think a Japanese ERROR:*Hondor*+CORRECTION:*NOTFOUND! is in the lead
+
+I think he is ERROR:*go*+CORRECTION:*ago to lead
+
+ERROR:*his*+CORRECTION:*this ERROR:*one*+CORRECTION:*on by 3 yards and a ERROR:*Royl*+CORRECTION:*NOTFOUND! Enfield 2 and a ERROR:*Hondor*+CORRECTION:*NOTFOUND! 3.
+
+The End 
+
+
+
+we went over the football field it was quite wet and soon made my toes cold.
+
+the grass was quite long now it ERROR:*shon*+CORRECTION:*shone with the dew on it.
+
+a field <ERR targ=ploughed> ploud </ERR> next to it I think it was ERROR:*don*+CORRECTION:*done yesterday.
+
+on the other side was ERROR:*an*+CORRECTION:*and hedge
+
+it had a lot of thorns in it .
+
+they ERROR:*hade*+CORRECTION:*had ERROR:*cleand*+CORRECTION:*cleaned the river and made it very wide ERROR:*fore*+CORRECTION:*for the ducks
+
+there were some <ERR targ=potatoes> potato </ERR> in the water .
+
+there were some brussels men sitting in the <ERR targ=pathway> parth way </ERR> round a fire
+
+we had to go on to a <ERR targ=ploughed> ploud </ERR> field to get round them this made my shoes <ERR targ=heavy> hevey </ERR> .
+
+this was quite muddy
+
+some boys did not think much to it nor did I but we still went.
+
+the dew on the brussels leaves made them ERROR:*look*+CORRECTION:*looks ERROR:*pirls*+CORRECTION:*girls .
+
+Mr. Holbrook went over the brook first
+
+some were boys going round but only one went
+
+after all the rest went over the tree Gerald ERROR:*nealy*+CORRECTION:*neatly went in
+
+one foot ERROR:*toch*+CORRECTION:*tock the water
+
+then we went across the new ERROR:*pice*+CORRECTION:*piece of grass into school
+
+we went and ERROR:*cleand*+CORRECTION:*cleaned our shoes with paper
+
+then the bell went for ERROR:*brack*+CORRECTION:*back .
+
+
+
+ 2.
+
+JOAN STALL page 54
+
+
+
+ A poem A little yellow bird sat on my window sill He ERROR:*hop*+CORRECTION:*hope
+
+ and <ERR targ=popped> poped </ERR> about He <ERR targ=whistled> wisheld </ERR> he ERROR:*cherped*+CORRECTION:*chirped .
+
+I <ERR targ=tried> trid </ERR> to <ERR targ=catch> chach </ERR> my little yellow <ERR targ=bird> brid </ERR> but he flew in to the golden yellow sun, O how I wish that was my yellow <ERR targ=bird> brid </ERR> .
+
+
+
+ ANN That's what you think JOHN That's what I ERROR:*no*+CORRECTION:*not . JEAN the longer you stay here talking we ERROR:*carn't*+CORRECTION:*can't get on with you here DENNIS Come on John I ERROR:*no*+CORRECTION:*not when ERROR:*were*+CORRECTION:*where
+
+ not ERROR:*whanted*+CORRECTION:*wanted JEAN Yes ERROR:*your*+CORRECTION:*yours
+
+ not <ERR targ=wanted> whated </ERR> here JOHN ERROR:*-Good-by*+CORRECTION:*NOTFOUND!
+
+ ANN I knew that would happen .
+
+
+
+ Apple red and green start are bright The apple trees are tall The ERROR:*leavs*+CORRECTION:*leaves are small The ERROR:*apple*+CORRECTION:*apples
+
+ fall in ERROR:*Aount*+CORRECTION:*NOTFOUND! time 
+
+ When ERROR:*yow*+CORRECTION:*now get to the ERROR:*corres*+CORRECTION:*cores inside the ERROR:*corres*+CORRECTION:*cores are pips ERROR:*yow*+CORRECTION:*now ERROR:*thorght*+CORRECTION:*thought the ERROR:*corres*+CORRECTION:*cores on the fire to ERROR:*brun*+CORRECTION:*bran then.
+
+the boys in our village go in the <ERR targ=orchard> orcher </ERR> and ERROR:*clim*+CORRECTION:*climb the trees and pinch ERROR:*then*+CORRECTION:*ten
+
+ all then they run away with ERROR:*then*+CORRECTION:*ten .
+
+then the <ERR targ=earwigs> eyewigs </ERR> fall out in ERROR:*there*+CORRECTION:*here ERROR:*pocket*+CORRECTION:*pockets
+
+ the ERROR:*apple*+CORRECTION:*apples are sweet.
+
+the trees are ERROR:*fall*+CORRECTION:*falls of ERROR:*apple*+CORRECTION:*apples .
+
+some of ERROR:*then*+CORRECTION:*the are cookers.
+
+the apples are so gay ERROR:*haing*+CORRECTION:*hang on the trees.
+
+with the sun on ERROR:*then*+CORRECTION:*the .
+
+no wonder the boys like pinch ERROR:*then*+CORRECTION:*ten 
+
+
+
+ What I am going to do when I leave school
+
+When I leave I <ERR targ=want> whant </ERR> to be a <ERR targ=hairdresser> hair dreser </ERR> in Melton or Tonbury.
+
+or I ERROR:*whant*+CORRECTION:*want to work in a shop.
+
+I do not <ERR targ=want> whont </ERR> to get <ERR targ=married> marryid </ERR> till I am <ERR targ=twenty one> twentone </ERR> .
+
+When I have children I am going to leave work and the <ERR targ=husband> husbon </ERR> has got to like children and ERROR:*tack*+CORRECTION:*track them out.
+
+I ERROR:*whant*+CORRECTION:*want twins.
+
+and I ERROR:*whant*+CORRECTION:*want four bridesmaids.
+
+I <ERR targ=want> whont </ERR> to live in a bungalow.
+
+for my holiday I would like to go to <ERR targ=Butlins> butlins </ERR> , for a <ERR targ=honeymoon> hunemoon </ERR> I like to go to Scotland.
+
+
+
+----EOF----

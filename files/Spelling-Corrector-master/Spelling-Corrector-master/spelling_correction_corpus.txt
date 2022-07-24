@@ -1,0 +1,1269 @@
+konuşma hızını artır
+konuşma hızını düşür
+konuşma artır
+konuşma düşür
+konuşma seviyesini artır
+ses
+konuşma seviyesini düşür
+seviyesi
+seviye
+hız
+hızı
+Sıcaklığı on derece yükselt
+Sıcaklığı on derece arttır
+ısıyı yirmi derece arttır
+ısıyı yirmi derece yükselt
+Sıcaklığı yetmiş iki derece arttır
+Sıcaklığı yüz seksen yaerece arttır
+Sıcaklığı arttır
+ısıyı arttır
+ısıyı yükseltir misin
+Sıcaklığı on beş derece düşür
+Sıcaklığı elli derece azalt
+ısıyı kırk derece azaltır mısın
+ısıyı altmış sekiz derece düşür
+Sıcaklığı yüz seksen dereceye düşürür müsün
+Sıcaklığı düşür
+ısıyı iki yüz yirmiye getir
+Sıcaklığı yüz doksana sabitle
+Fırını yüz seksen dereceye getir
+Sıcaklığı yüz altmış dereceye getirir misin
+Fırını iki yüz elli beş dereceye sabitle
+ısıyı yüz beş derece yap
+Fan hızını arttır
+Fan hızını azalt
+Fanı sağa döndür
+Fanı sola çevir
+Fan yönünü sağa değiştir
+Fan yönünü sola değiştir
+Fanı yavaşlat
+Fanı hızlandır
+fanları çalıştır
+fanları çalıştırır mısın
+fanları kapat
+fanları kapatır mısın
+fanları söndür
+fanları söndürür müsün
+Fanlı çalışma fonksiyonunu seç
+Alt ve üst ısıtma moduna geç
+Pişirme modunu alt ısıtmaya getirir misin
+Fırını fan destekli alt ve üst ısıtma moduna getir
+Turbo pişirme fonksiyonunu seçer misin
+Yemeği ekonomik fanlı modunda pişirir misin?
+Pizza fonksiyonuna geçer misin?
+üç boyut fonksiyonunu seç
+Tridi moduna geç
+Küçük ızgara fonksiyonuna geç
+Fırını büyük ızgara moduna getir
+Fanlı büyük ızgara modunu seç
+Sıcak tutma moduna başlar mısın
+Buharlı temizleme fonksiyonunu aç
+Pişirme modunu turboya değiştir
+Fırını alt üst çalışma moduna getir
+Pizza pişirmek istiyorum
+Modu küçük ızgaraya getir
+Yemeği sıcak tutar mısın
+Saati sıfır beş sıfır sıfıra kur
+Saati on beş dakika ileri al
+Saati iki saat ileri al
+Saati yetmiş üç dakika sonraya al
+saati otuz dakika geri al
+pişirme kaç dakika sonra bitecek
+yemek ne zaman pişecek
+Saati dört saat önceye al
+Saati kırk sekiz dakika geriye al
+Saati on otuza kur
+Saati yedi buçuğa ayarla
+Saati on dokuz kırk ikiye getir
+Zamanı yirmi beş yetmiş ikiye al
+Saati yarım saat geri al
+saati yarim saat geri çek
+saati otuz dakika geri çek
+saati ayarlamak istiyorum
+saati kontrol etmek istiyorum
+Saati öğrenmek istiyorum
+zamanı ayarlamak istiyorum
+zamanı on iki otuza ayarla
+On elliye alarm saatini ayarla
+Sekiz kırk yediye alarm kur
+On bir yirmi sekize alarm kur
+On beş dakikalık alarm kur
+Yirmi dakikaya alarm ayarla
+Alarmı on bir elliye getir
+Alarmı yarım saat ileri al
+Alarmı otuz dakika ileri ayarla
+Alarmı on beş dakika ileri ayarla
+Alarmı yirmi iki dakika geri al
+Alarmı yarım saat ileri al
+Alarm saatini kırk iki dakika geri al
+Alarmın bitmesine ne kadar kaldı
+on beş dakikaya alarm kur
+Alarm kurmak istiyorum
+bir saate alarm kur
+bir saatlik alarm kur
+yarın saat on ikiye alarm kur
+Pişirme süresini on dakika uzat
+Pişirme zamanını yetmiş dakika arttır
+Pişirme vaktini  yirmi üç dakika uzat
+Pişirme süresini on sekiz dakika azalt
+Pişirme zamanını kırk iki dakika kısalt
+Pişirme vaktini otuz beş dakika kısalt
+Pişirme süresini altmış dakikaya ayarla
+Pişirme süresini yetmiş dakika olarak ayarla
+Pişirme zamanını otuz dakikaya kur
+Pişirme vaktini elli üç dakika olarak ayarla
+kalan pişirme süresi
+ışığı Aç
+ışığı kapa
+ışığı açar mısın
+ışığı kapar mısın
+Lambaları söndür
+Lambaları yak
+Lambaları çalıştır
+ışığı yak
+ışığı yakar mısın
+üst lambayı yak
+Fırın ışığını kontrol etmek istiyorum
+Fırını aç
+Fırını açar mısın
+Fırını açmak istiyorum
+Fırını çalıştır
+Fırını çalıştırır mısın
+Fırını çalıştırmak istiyorum
+Fırını kapa
+Fırını kapat
+Fırını kapatır mısın
+Fırını söndür
+Fırını kapatmak istiyorum
+Fırını söndürür müsün
+Pişirmeyi aç
+Pişirmeyi kapat
+Pişirmeye başla
+Pişirmeyi bitir
+Açalım pişirmeyi
+ısıtmaya başla
+Yemegi pişirmeye başla
+Yemegi pişir
+Pişirmeyi kes
+ısıtmayı kes
+Fırını ısıt
+Fırını ısıtır mısın
+Tarifi al
+hey arçelik
+çalıştırmak
+ışığı söndür
+Aydınlatmayı kapat
+Cihazı kapat
+Kendini kapat
+Evet kapat
+Fırını kapatma
+Hayır kapatma
+Sıcaklığı ayarla on beş
+Sıcaklığı on beş dereceye ayarla
+On beş dereceye sıcaklığı ayarla
+Sıcaklık arttır
+Aydınlatmayı aç
+Fırın ışığını aç
+Evet
+istiyorum
+Evet istiyorum
+Büyük ızgara programını seç
+Büyük ızgara programını seçmek istiyorum
+Hayır
+istemiyorum
+Hayır istemiyorum
+Başka program seçmek istiyorum
+Büyük ızgara programını çalıştır
+Büyük ızgara programını çalıştırmak istiyorum
+Büyük ızgara programına geç
+Büyük ızgara programını aktifleştir
+Büyük ızgara programını seç
+Bir sonraki programa geç
+Diğer programları göster
+Bir önceki programa geç
+Sonraki programa geç
+Sonraki programa al
+ileri
+ileri al
+Sonraki
+Bir sonraki
+Sonrakini aç
+Önceki programa geç
+Önceki programa al
+Geri
+Geri al
+Önceki
+Bir önceki
+Öncekini aç
+Saati ayarla
+Günün saatini ayarla
+Saati değiştir
+Saati güncelle
+Ayarlamak istemiyorum
+Çıkış
+Vazgeç
+iptal
+Kapat
+Ayarlardan çık
+Sonlandır
+Günün saati kaç
+Şuan saat kaç
+Güncel saat kaç
+Alarmı on dakikaya kur
+Alarmı on dakikaya ayarla
+Alarmı on dakikaya set et
+Alarmı bir saat beş dakikaya ayarla
+Alarmı iptal et
+Alarmı sonlandır
+Alarmı on dakikaya ertele
+Pişirme süresi ayarla
+Pişirme süresi ayarı
+Pişirme süresi değiştir
+Pişirme süresini güncelle
+Pişirme süresini on dakika olarak ayarla
+Pişirme süresini on dakikaya ayarla
+Pişirme süresini on dakikaya set et
+Pişirme süresini bir saat on dakikaya ayarla
+Otuz dakika
+Pişirme süresini otuz dakika olarak ayarla
+Pişirme süresini otuz dakikaya ayarla
+Pişirme süresini iptal et
+Pişirme süresini sonlandır
+Pişirmenin tamamlanmasına ne kadar kaldı
+Pişirme ne zaman sonlanacak
+Pişirme süresi ne zaman tamamlanacak
+Pişirmeyi durdur
+Pişirmeyi bitir
+Pişirmeyi sonlandır
+Programı sonlandır
+Programı durdur
+Pişirmeyi başlat
+Pişirme işlemini başlat
+Programı başlat
+Pişirme on dokuz on altı bitsin
+alarm süresini söyler misin
+patlıcan bulunduran yemek tarifi istiyorum
+kabak kullanarak yemek yapmak istiyorum
+pirinç kullanarak ne yemek yapabilirim
+sarımsak bulunduran tarifleri göster
+içinde tavuk olan tarifleri göster
+tarif
+domates bulundurmayan yemek tarifi istiyorum
+içinde fıstık olmayan yemek yapmak istiyorum
+fındık kullanmadan ne yemek yapabilirim
+mantar bulundurmayan tarifleri göster
+içinde hindi olmayan tarifleri göster
+seksen dakikada yapabileceğim bir yemek tarifi istiyorum
+yüz dakika içinde yemek yapmak istiyorum
+yirmi dakikada ne yemek yapabilirim
+kırk dakika içinde yapabileceğim tarifleri göster 
+Sonraki adıma geç
+önceki adıma geç
+Malzeme bilgisi söyle
+Malzemeler
+Son kullandığım tarifi göster
+En son hangi tarifi yaptım
+En son ne tarifi yaptım
+Son tarif neydi
+programı ile ilgili daha fazla bilgi almak istiyorum
+ile ilgili bilgi verir misin
+ile ilgili bilgi
+programı nedir
+programı ne demektir
+Bu pişirme fonksiyonu ile ilgili daha fazla bilgi almak istiyorum
+Mevcut
+şimdiki
+Seçili
+Aktif program ile ilgili bilgi ver
+Program ile ilgili bilgi
+Bu programı nedir
+ne demektir
+Sen kimsin
+Seninle nasıl iletişim kurabilirim
+Neler yapabiliyorsun
+Yeteneklerin neler
+Fonksiyonların neler
+Hangi temel fonksiyonlara sahipsin
+Sana hangi komutları söyleyebilirim
+Bana yardım eder misin
+Yardıma ihtiyacım var
+ızgarayı aç
+eko mod
+Buharlı temizlik
+Fırını temizle
+ekonomik program
+Favorilerden çıkart
+listeden çıkart
+liste 
+ışık
+yapmak
+alabilir
+hazır
+tekrar
+adım
+lamba
+vakti
+buçuk
+çeyrek
+bana
+Pervane
+kısa
+Favori Tarifler
+Favori Tarifleri göster
+Favori tariflere git
+Favoriler
+hakkında
+beni sesimden tanı
+Kişisel sağlık bilgilerime ulaşmak istiyorum
+hey arçi
+beni unut
+kuzu dolması
+domuz köfte
+domuz rostosu
+domuz pirzolası
+fırında tavuk
+badem soslu piliç nugget
+fırında tavuk göğsü
+kişnişli tavuk şiş
+piliç baget
+hindi rosto
+hindi butu rosto
+kuzu kebap
+somon balığı keki
+fırında kızarmış bütün ördek
+kinoa falafel
+portakallı bıldırcın
+biscotti
+çilek pestili
+fırında çipura
+pişirme kağıdında dil balığı
+hamsi buğulama
+kuzu kaburga
+baharatlı sarımsaklı karides
+fileto balık
+balık kebabı
+balık yahni
+somon fileto
+şarap soslu i̇stiridye
+biber dolması
+yeşil kabak ve i̇talyan loru dolgulu makarna
+fırında kumpir
+kuşkonmaz ve enginar  kiş
+kuşkonmaz kebabı
+musakka
+çıtır patates cipsi
+elma dilim patates
+fırında pişmiş enginar
+patates ve but kiş
+lazanya
+sebzeli türlü
+cevizli kurabiye
+kuşkonmazlı yufka
+limonlu bisküvi
+biftek
+meyveli somun kek
+calzone
+haşhaşlı çörekler
+baget ekmek
+sandviç ekmeği
+kahvaltılık muffin kalıbında omlet
+tatlı çörek
+muzlu yulaf unlu muffin
+yeşil kabak ve ispanak  muffinleri
+rulo köfte
+simit
+enginar ve  burrata pizza
+taze meyve turtası
+elmalı tart
+elmalı puf
+pavlova
+granola çubukları
+fırında sütlaç
+cheesecake
+çikolatalı sufle
+baharatlı fırın köfte
+krem brule
+fırında ballı elma
+çikolatalı badem turtası
+muz ekmeği
+galete
+armut ve elma kurusu
+çilekli kırıntı turta
+yoğurt
+biftek
+hamur kabartma
+bonfile
+
+kek
+ısı
+açsın
+önerir
+verir
+tatlı
+fasülye
+semizot
+ıspanak
+enginar
+badem
+tarçınlı
+meyve
+pasta
+karamel
+tuzda
+güveçte
+armut
+sarma
+yemeği
+baton
+közlenmiş
+bagetleri
+şerbetli
+pişmiş
+kumpir
+pirzolası
+puflar
+elmalı
+muzlu
+kişnişli
+buğulama
+tavşan
+balık
+parçaları
+iri
+kurusu
+ekmek
+elma
+hamsi
+sebzeli
+kurabiye
+kızarmış
+çikolata
+tuzlu
+taneli
+biber
+köfte
+ekler
+dana
+eti
+köftesi
+sülün
+börek
+fırın
+beze
+taze
+ballı
+sütlaç
+makarna
+kebabı
+paketleri
+tavuk
+kruvasan
+örgü
+rulo
+puding
+kek
+kuzu
+çikolatalı
+sandviç
+kiş
+dondurulmuş
+baget
+tandır
+dolması
+keki
+rosto
+poğaçalar
+topları
+yahnisi
+sığır
+musakka
+böreği
+yumuşak
+avcı
+patates
+graten
+sosisli
+kaz
+i̇rmik
+bonfilesi
+yufka
+hindi
+usulü
+brule
+alabalık
+turta
+acılı
+fırında
+meyveli
+limonlu
+levrek
+bisküvi
+sebzeler
+bifteği
+but
+biftek
+krem
+domuz
+hamur
+sebze
+ördek
+somon
+etli
+haşhaşlı
+yoğurt
+simit
+rulolar
+pizza
+rozbif
+ekmeği
+mereng
+lazanya
+çörekler
+kreme
+turtası
+cevizli
+peynirli
+güveç
+fileto
+ayva
+ekle
+Tekrar eder misin
+Son cümleyi tekrar söyler söyleyebilir misin
+Anlamadım
+Anlamadım Tekrar eder misin
+Tekrar söyler misin
+Tekrar et
+Söylediğini anlamadım
+Seni anlamadım
+Fırın sıcaklığı ne
+iç sıcaklık ne kadar
+Fırın kaç derece
+Fırın sıcaklığı
+Bugün hava nasıl
+Bugün hava kaç derece
+Hava sıcaklığı sıcaklık kaç
+Yarın hava durumu nasıl olacak
+Bugün yağmur var mı
+Bugün kar var mı
+Bugün hava rüzgarlı mı
+Bugün sağanak yağış var mı
+Trafik durumu nasıl
+işe kaç dakikada gidebilirim
+işe ne kadar zamanda gidebilirim
+işe gitmem kaç dakika sürer
+Trafik çok yoğun mu
+Bana haberleri okur musun
+Haberleri göster
+Et siparişi vermek istiyorum
+Ayakkabı siparişi vermek istiyorum
+Sipariş verebilir miyim
+Buzdolabı kaç derece
+Derin dondurucu kaç derece
+Davlumbazı aç
+Mikrodalga fırını başlat
+Kahve makinesini başlat
+çay makinesini başlat
+çamaşır makinesini başlat
+Kurutma makinesini başlat
+Kurutucuyu başlat
+Bulaşık makinesini başlat
+Klimayı aç
+Televizyonu aç
+Robot süpürgeyi çağır
+
+
+karnabahar
+yumurta sarısı
+stok
+orta boy soğan
+çikolata
+tereyağı
+kimyon
+pudra şekeri
+hindi
+acı biber
+pekmez
+karışık sebze
+haşhaş tohumu
+kuzu eti
+maydanoz yaprakları
+yeşil biber
+tereyağı
+hindi but
+yufka
+fesleğen
+hindistan cevizi
+kuzu but
+maydanoz
+salam 
+sucuk
+yumurta
+kabak
+karabiber
+dereotu
+un
+sebze yağı
+adaçayı
+Biberiye dalları
+patates
+milföy hamuru
+pirinç
+kuzu kıyma
+bezelye
+defne
+beyaz peynir
+ayva
+kırmızı biber
+bacon 
+pancetta
+patates
+kişniş
+limon kabuğu
+dereotu
+mantar
+biber salçası
+kabartma tozu
+sığır filetosu
+but bifteği
+biftek fileto
+irmik
+çırpılmış yumurta dışı
+nişasta
+doğal yoğurt
+hardal tozu
+Mayonez
+tavuk
+defne yaprağı
+margarin oda sıcaklığında
+ceviz
+soğan
+bütün tavuk
+kuzu hindi eti
+muz
+kabak
+peynir
+ricotta peyniri
+somon fileto
+dana bonfile biftek
+Yarım demet maydanoz
+kuru maya
+yaş maya
+limon
+beyaz ekmek unu
+yumurta akı
+acı pul biber
+limon kabuğu
+maydanoz
+kivi
+beyaz şarap
+fıstık
+patlıcan
+kırmızı toz biber
+haşhaş
+ıspanak yaprağı
+pirinç
+tüm tavşan
+domates
+kakao
+havuç
+yenibahar
+sarımsak
+nane
+zeytinyağı
+domuz pirzolası
+vanilya özütü
+esmer şeker
+hindi göğüs fileto
+çedar peynir
+süt
+yumurta beyazı
+deniz tuzu
+bezelye
+kekik
+kişniş yaprağı
+ördek
+tarhun otu
+tavuk göğüs eti
+muskat
+domuz kıyması
+tuz
+sülün
+limon suyu
+küçük soğan
+karışık ot
+ezilmiş soğan
+büyük soyulmuş soğan
+soyulmuş doğranmış domates
+Salamura zeytin
+biber
+bonfile
+yumurta
+şeker
+bal
+kuru üzüm
+yeşil limon suyu
+krema
+balık fileto
+margarin
+hamsi
+brokoli
+karışık baharat
+elma
+yağsız dana kıyma
+su
+kuzu biftek
+beyaz ekmek kırıntıları
+armut
+domates salçası
+parmesan
+yağ
+beyaz sos
+çilek
+levrek
+sosis
+Domates sosu
+kaz
+frenk soğanı
+domates konservesi
+konyak
+toz şeker
+rezene tohumu
+balık suyu
+fındık
+somon
+yeşil limon kabuğu suyu
+alabalık
+Beşamel sos
+mozerella peyniri
+balık filetoları bonfileleri
+Mısır
+kornişon turşusu
+domuz pastırması
+kabaran un
+tavuk suyu
+yaban mersini
+yağlı krema
+domuz but
+domuz
+dana
+kuzu
+balık
+
+karnabaharsız
+yumurta sarısız
+stoksuz
+orta boy soğansız
+çikolatasız
+tereyağısız
+kimyonsuz
+pudra şekersiz
+hindisiz
+acı bibersiz
+pekmezsiz
+karışık sebzesiz
+haşhaş tohumsuz
+kuzu etsiz
+maydanoz yapraksız
+yeşil bibersiz
+tereyağsız
+hindi butsuz
+yufkasız
+fesleğensiz
+hindistan cevizsiz
+kuzu butsuz
+maydanozsuz
+salamsız
+sucuksuz
+yumurtasız
+kabaksız
+karabibersiz
+dereotsuz
+unsuz
+sebze yağsız
+adaçaysız
+Biberiye dalsız
+patatessiz
+milföy hamursuz
+pirinçsiz
+kuzu kıymasız
+bezelyesiz
+defnesiz
+beyaz peynirsiz
+ayvasız
+kırmızı bibersiz
+baconsız
+pancettasız
+patatessiz
+kişnişsiz
+limon kabuksuz
+dereotsuz
+mantarsız
+biber salçasız
+kabartma tozsuz
+sığır filetosuz
+but bifteksiz
+biftek filetosuz
+irmiksiz
+çırpılmış yumurta dışsız
+nişastasız
+doğal yoğurtsuz
+hardal tozsuz
+Mayonezsiz
+tavuksuz
+defne yapraksız
+margarinsiz oda sıcaklığında
+cevizsiz
+soğansız
+bütün tavuksuz
+kuzusuz hindi etsiz
+muzsuz
+kabaksız
+peynirsiz
+ricotta peynirsiz
+somon filetosuz
+danasız bonfilesiz bifteksiz
+Yarım demet maydanozsuz
+kuru mayasız
+yaş mayasız
+limonsuz
+beyaz ekmek unsuz
+yumurta aksız
+acı pul bibersiz
+limon kabuksuz
+maydanozsuz
+kivisiz
+beyaz şarapsız
+fıstıksız
+patlıcansız
+kırmızı toz bibersiz
+haşhaşsız
+ıspanak yapraksız
+pirinçsiz
+tüm tavşansız
+domatessiz
+kakaosuz
+havuçsuz
+yenibaharsız
+sarımsaksız
+nanesiz
+zeytinyağsız
+domuz pirzolasız
+vanilya özütsüz
+esmer şekersiz
+hindi göğüs filetosuz
+çedar peynirsiz
+sütsüz
+yumurta beyazsız
+deniz tuzsuz
+bezelyesiz
+kekiksiz
+kişniş yapraksız
+ördeksiz
+tarhun otsuz
+tavuk göğüs eti
+muskatsız
+domuz kıymasız
+tuzsuz
+sülünsüz
+limon susuz
+küçük soğansız
+karışık otsuz
+ezilmiş soğansız
+büyük soyulmuş soğansız
+soyulmuş doğranmış domatessiz
+Salamura zeytinsiz
+bibersiz
+bonfilesiz
+yumurtasız
+şekersiz
+balsız
+kuru üzümsüz
+yeşil limon susuz
+kremasız
+balık filetosuz
+margarinsiz
+hamsisiz
+brokolisiz
+karışık baharatsız
+elmasız
+yağsız dana kıymasız
+susuz
+kuzu bifteksiz
+beyaz ekmek kırıntısız
+armutsuz
+domates salçasız
+parmesansız
+yağsız
+beyaz sossuz
+çileksiz
+levreksiz
+sosissiz
+Domates sossuz
+kazsız
+frenk soğansız
+domates konservesiz
+konyaksız
+toz şekersiz
+rezene tohumsuz
+balık susuz
+fındıksız
+somonsuz
+yeşil limon kabuğu susuz
+alabalıksız
+Beşamel sossuz
+mozerella peynirsiz
+balık filetoları bonfilesiz
+Mısırsız
+kornişon turşusuz
+domuz pastırmasız
+kabaran unsuz
+tavuk susuz
+yaban mersinsiz
+yağlı kremasız
+domuz butsuz
+domuzsuz
+danasız
+kuzusuz
+balıksız
+
+karnabaharlı
+yumurta sarılı
+stoklu
+çikolatalı
+kimyonlu
+pudra şekerli
+hindili
+acı biberli
+pekmezli
+karışık sebzeli
+haşhaş tohumlu
+kuzu etli
+maydanoz yapraklı
+yeşil biberli
+tereyağlı
+hindi butlu
+yufkalı
+fesleğenli
+hindistan cevizli
+kuzu butlu
+maydanozlu
+salamlı
+sucuklu
+yumurtalı
+kabaklı
+karabiberli
+dereotulu
+unlu
+sebze yağlı
+adaçayılı
+Biberiye dallı
+patatesli
+milföy hamurlu
+pirinçli
+kuzu kıymalı
+bezelyeli
+defneli
+beyaz peynirli
+ayvalı
+kırmızı biberli
+baconlu
+pancettalı
+patatesli
+kişnişli
+limon kabuklu
+dereotulu
+mantarlı
+biber salçalı
+kabartma tozlu
+sığır filetolu
+but biftekli
+biftek filetolu
+irmikli
+çırpılmış yumurta dışlı
+nişastalı
+doğal yoğurtlu
+hardal tozlu
+Mayonezli
+tavuklu
+defne yapraklı
+margarinli
+cevizli
+soğanlı
+bütün tavuklu
+kuzu hindi etli
+muzlu
+kabaklı
+peynirli
+ricotta peynirli
+somon filetolu
+dana bonfile biftekli
+maydanozlu
+kuru mayalı
+yaş mayalı
+limonlu
+beyaz ekmek unlu
+yumurta aklı
+acı pul biberli
+kivili
+beyaz şaraplı
+fıstıklı
+patlıcanlı
+kırmızı toz biberli
+haşhaşlı
+ıspanak yapraklı
+pirinçli
+tüm tavşanlı
+domatesli
+kakaolu
+havuçlu
+yenibaharlı
+sarımsaklı
+naneli
+zeytinyağlı
+domuz pirzolalı
+vanilya özütlü
+esmer şekerli
+hindi göğüs filetolu
+çedar peynirli
+sütlü
+yumurta beyazlı
+deniz tuzlu
+bezelyeli
+kekikli
+kişniş yapraklı
+ördekli
+tarhun otlu
+tavuk göğüs etli
+muskatlı
+domuz kıymalı
+tuzlu
+sülünlü
+limon sulu
+karışık otlu
+salamura zeytinli
+biberli
+bonfileli
+yumurtalı
+şekerli
+ballı
+kuru üzümlü
+yeşil limon sulu
+kremalı
+balık filetolu
+margarinli
+hamsili
+brokolili
+karışık baharatlı
+elmalı
+yağsız dana kıymalı
+sulu
+kuzu biftekli
+beyaz ekmek kırıntılı
+armutlu
+domates salçalı
+parmesanlı
+yağlı
+beyaz soslu
+çilekli
+levrekli
+sosisli
+Domates soslu
+kazlı
+frenk soğanlı
+domates konserveli
+konyaklı
+toz şekerli
+rezene tohumlu
+balık sulu
+fındıklı
+somonlu
+yeşil limon kabuğu sulu
+alabalıklı
+Beşamel soslu
+mozerella peynirli
+balık filetolu
+Mısırlı
+kornişon turşulu
+domuz pastırmalı
+otlu
+kabaran unlu
+tavuk sulu
+yaban mersinli
+yağlı kremalı
+domuz butlu
+domuzlu
+danalı
+kuzulu
+balıklı
+hindistan cevizi şekerli
+
+çikolatasız
+kimyonsuz
+hindisiz
+pekmezsiz
+kuzu etsiz
+yeşil bibersiz
+tereyağsız
+yufkasız
+hindistan cevizsiz
+maydanozsuz
+salamsız
+sucuksuz
+kabaksız
+karabibersiz
+dereotsuz
+unsuz
+patatessiz
+pirinçsiz
+kuzu kıymasız
+bezelyesiz
+beyaz peynirsiz
+ayvasız
+patatessiz
+dereotsuz
+mantarsız
+kabartma tozsuz
+nişastasız
+Mayonezsiz
+tavuksuz
+margarinsiz
+cevizsiz
+soğansız
+muzsuz
+kabaksız
+peynirsiz
+limonsuz
+acı pul bibersiz
+fıstıksız
+patlıcansız
+kırmızı toz bibersiz
+pirinçsiz
+domatessiz
+kakaosuz
+havuçsuz
+sarımsaksız
+nanesiz
+zeytinyağsız
+esmer şekersiz
+sütsüz
+bezelyesiz
+kekiksiz
+tuzsuz
+bibersiz
+bonfilesiz
+yumurtasız
+şekersiz
+balsız
+kremasız
+margarinsiz
+hamsisiz
+elmasız
+domates salçasız
+parmesansız
+yağsız
+çileksiz
+levreksiz
+sosissiz
+domates sossuz
+toz şekersiz
+fındıksız
+somonsuz
+alabalıksız
+Mısırsız
+otsuz
+danasız
+kuzusuz
+balıksız
+bademsiz
+enginarsız
+semizotsuz
+mercimeksiz
+sebzesiz
+fasülyesiz
+ıspanaksız
+etsiz
+çikolatalı
+kimyonlu
+hindili
+pekmezli
+kuzu etli
+yeşil biberli
+tereyağlı
+yufkalı
+hindistan cevizli
+maydanozlu
+salamlı
+sucuklu
+kabaklı
+karabiberli
+dereotulu
+unlu
+patatesli
+pirinçli
+kuzu kıymalı
+bezelyeli
+beyaz peynirli
+ayvalı
+patatesli
+dereotulu
+mantarlı
+kabartma tozlu
+nişastalı
+Mayonezli
+tavuklu
+margarinli
+cevizli
+soğanlı
+muzlu
+kabaklı
+peynirli
+limonlu
+acı pul biberli
+fıstıklı
+patlıcanlı
+kırmızı toz biberli
+pirinçli
+domatesli
+kakaolu
+havuçlu
+sarımsaklı
+naneli
+zeytinyağlı
+esmer şekerli
+sütlü
+bezelyeli
+kekikli
+tuzlu
+biberli
+bonfileli
+yumurtalı
+şekerli
+ballı
+kremalı
+margarinli
+hamsili
+elmalı
+domates salçalı
+parmesanlı
+yağlı
+çilekli
+levrekli
+sosisli
+domates soslu
+toz şekerli
+fındıklı
+somonlu
+alabalıklı
+Mısırlı
+otlu
+danalı
+kuzulu
+balıklı
+bademli
+enginarlı
+semizotlu
+mercimekli
+sebzeli
+fasülyeli
+ıspanaklı
+etli
