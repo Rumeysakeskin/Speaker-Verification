@@ -1,4 +1,0 @@
-include *.py
-include *.raw
-include LICENSE
-recursive-include cbits *.h
