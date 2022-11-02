@@ -11,7 +11,10 @@ You can download Nemo models and speaker vectors for SpeakerNet, TitaNet-L, ECAP
 
 #### Prediction
 The cosine similarity metric was used for prediction.
-`cosine_similarity([vector[0]], speakers_vectors)[0]`
+```
+from sklearn.metrics.pairwise import cosine_similarity
+sims = cosine_similarity([vector[0]], speakers_vectors)[0]
+```
 To predict most similar speaker in `test_voices/` refered to `ref_voices` run the following command:
 ```
 python speaker_verification.py
