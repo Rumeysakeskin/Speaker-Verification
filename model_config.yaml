@@ -1,0 +1,115 @@
+train_ds:
+  manifest_filepath: /ws/manifests/raid/combined/train_manifest.json
+  sample_rate: 16000
+  labels: null
+  batch_size: 64
+  shuffle: true
+  time_length: 8
+  augmentor:
+    noise:
+      manifest_path: /ws/manifests/raid/musan/musan_music_noise_manifest_dur8.json
+      prob: 0.2
+      min_snr_db: 5
+      max_snr_db: 15
+  num_workers: 4
+validation_ds:
+  manifest_filepath: /ws/manifests/raid/voxceleb/small_manifest.json
+  sample_rate: 16000
+  labels: null
+  batch_size: 64
+  shuffle: false
+  time_length: 8
+  num_workers: 1
+preprocessor:
+  _target_: nemo.collections.asr.modules.AudioToMelSpectrogramPreprocessor
+  normalize: per_feature
+  window_size: 0.02
+  sample_rate: 16000
+  window_stride: 0.01
+  window: hann
+  features: 64
+  n_fft: 512
+  frame_splicing: 1
+  dither: 1.0e-05
+  stft_conv: false
+encoder:
+  _target_: nemo.collections.asr.modules.ConvASREncoder
+  feat_in: 64
+  activation: relu
+  conv_mask: true
+  jasper:
+  - filters: 512
+    repeat: 1
+    kernel:
+    - 3
+    stride:
+    - 1
+    dilation:
+    - 1
+    dropout: 0.5
+    residual: true
+    separable: true
+  - filters: 512
+    repeat: 2
+    kernel:
+    - 7
+    stride:
+    - 1
+    dilation:
+    - 1
+    dropout: 0.5
+    residual: true
+    separable: true
+  - filters: 512
+    repeat: 2
+    kernel:
+    - 11
+    stride:
+    - 1
+    dilation:
+    - 1
+    dropout: 0.5
+    residual: true
+    separable: true
+  - filters: 512
+    repeat: 2
+    kernel:
+    - 15
+    stride:
+    - 1
+    dilation:
+    - 1
+    dropout: 0.5
+    residual: true
+    separable: true
+  - filters: 1500
+    repeat: 1
+    kernel:
+    - 1
+    stride:
+    - 1
+    dilation:
+    - 1
+    dropout: 0.0
+    residual: false
+    separable: true
+decoder:
+  _target_: nemo.collections.asr.modules.SpeakerDecoder
+  feat_in: 1500
+  num_classes: 7205
+  pool_mode: xvector
+  emb_sizes: 256
+  angular: true
+loss:
+  scale: 30
+  margin: 0.2
+optim:
+  name: sgd
+  lr: 0.006
+  weight_decay: 0.001
+  sched:
+    name: CosineAnnealing
+    warmup_ratio: 0.1
+    min_lr: 0.0001
+  momentum: 0.9
+target: nemo.collections.asr.models.label_models.EncDecSpeakerLabelModel
