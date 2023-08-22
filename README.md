@@ -1,4 +1,4 @@
-# speaker-verification
+# Speaker Verification
 Speaker verification is verifying the identity of a person from characteristics of the voice independent from language via NVIDIA NeMo.
 
 This reporisitory presents three NeMo speaker verification models: 
@@ -19,5 +19,15 @@ To predict most similar speaker in `test_voices/` refered to `ref_voices` run th
 ```python
 python speaker_verification.py
 ```
+
+#### Inference Benchmark
+- Torch Model
+- Onnx Model
+Run the script below to compare the inference time of SpeakerNet model. 
+```python
+speaker_verification_with_torch_and_onnx.ipynb
+```
+
+
 
 
